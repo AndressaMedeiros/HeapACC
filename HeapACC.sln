@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapACC", "HeapACC.csproj", "{60EDF5CA-BEDF-41C8-ABD1-6102B6E2479E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60EDF5CA-BEDF-41C8-ABD1-6102B6E2479E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EDF5CA-BEDF-41C8-ABD1-6102B6E2479E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EDF5CA-BEDF-41C8-ABD1-6102B6E2479E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EDF5CA-BEDF-41C8-ABD1-6102B6E2479E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C41DAE4-5D58-4BBC-B93A-968813964F60}
+	EndGlobalSection
+EndGlobal
